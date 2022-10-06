@@ -49,11 +49,13 @@ D3 JavaScript, Leaflet
 
 ## Editorial
 Key takeaways from attempting JavaScript.
+
 - Great deal of respect for people that enjoy working in it
+- I will never be one of these people. Ever.
 - JavaScript left me with two emotions.<br>
 1. Frustration when all my code just doesn't run:<br>  
 ![DONE!](/Step-1/images/DONE!.gif)<br>
-2.  Angry that after hours and hours of console.log(whatever), I find a small problem in my code that prevents it from working.<br>
+2.  Anger that after hours and hours of staring at the console.log and attempting to troubleshoot issues, I find a small problem in my code that prevents it from working.<br>
 ![HATE!](/Step-1/images/JSfeelings.PNG)
 
 
