@@ -28,8 +28,7 @@ Base layer:
 - mapbox.greyscale
 - mapbox.satellite
 - mapbox.outdoors
-## Finished interact webpage location
-[CLICK HERE!](https://jermov.github.io/leaflet-challenge/) for finished website
+
 
 Data: All Earthquakes - Last 7 days <br>
 Layer 2: Tectonic Plates <br>
